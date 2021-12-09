@@ -1,0 +1,158 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/architecture-1869398_1920.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 760px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 640px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 60px 30px 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  text-transform: none;
+  line-height: 52.8px;
+  font-weight: 700;
+  margin: 46px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  letter-spacing: 2px;
+  font-size: 1.25rem;
+  margin: 14px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  text-transform: none;
+  line-height: 36px;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin: 26px 30px 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  text-transform: none;
+  line-height: 36px;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin: 7px 30px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  text-transform: none;
+  line-height: 36px;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin: 20px 30px 0 0;
+}
+
+.u-section-1 .u-text-6 {
+  text-transform: none;
+  line-height: 36px;
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin: 7px 30px 0 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 640px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 45px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 506px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 528px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 528px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 37px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-right: 30px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 404px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-right: 0;
+    padding-left: 17px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 137px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 606px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    line-height: 1.2;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 382px;
+  }
+}
