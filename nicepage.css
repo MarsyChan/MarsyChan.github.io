@@ -36252,6 +36252,11 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 400;
   margin: -63px 879px 23px 86px;
 }
+
+.u-header .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
     min-height: 103px;
